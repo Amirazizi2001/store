@@ -16,44 +16,44 @@ namespace Store.Presentation1.Controllers
             _productService = productService;
         }
         [HttpGet]
-        public IActionResult GetAll()
+        public async Task< IActionResult> GetAll()
         {
-            var products= _productService.GetProducts();
+            var products= await _productService.GetProducts();
             return Ok(products);
             
         }
         [HttpGet("{id}")]
-        public IActionResult GetById(int id)
+        public async Task<IActionResult> GetById(int id)
         {
             if(id == null)
             {
                 return NotFound();
             }
-            var product=_productService.GetProductById(id);
+            var product=await _productService.GetProductById(id);
             return Ok(product);
         }
         [HttpPost]
-        public IActionResult AddProduct(CreateProductDto product)
+        public async Task< IActionResult> AddProduct(CreateProductDto product)
         {
-           _productService.AddProduct(product);
-            return Ok();
+           await _productService.AddProduct(product);
+            return Ok(product);
         }
         [HttpDelete]
-        public IActionResult Delete(Product product)
+        public async Task< IActionResult> Delete(Product product)
         {
-            _productService.DeleteProduct(product);
+           await  _productService.DeleteProduct(product);
             return Ok(product);
         }
         [HttpDelete("{id}")]
-        public IActionResult DeleteById(int id)
+        public async Task<IActionResult> DeleteById(int id)
         {
-            _productService.DeleteProduct(id);
+           await  _productService.DeleteProduct(id);
             return Ok(true);
         }
         [HttpPut]
-        public IActionResult UpdateProduct(Product product)
+        public async Task<IActionResult> UpdateProduct(Product product)
         {
-           _productService.UpdateProduct(product);
+          await  _productService.UpdateProduct(product);
             return Ok(product);
         }
     }

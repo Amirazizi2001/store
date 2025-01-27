@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\Product\\",
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\product\\Product\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0B0FE34-1C6E-45F6-8B52-1900A286C091}|Store.Application\\Store.Application.csproj|c:\\users\\pc\\source\\repos\\product\\store.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0B0FE34-1C6E-45F6-8B52-1900A286C091}|Store.Application\\Store.Application.csproj|solutionrelative:store.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDEC192A-3F39-42C0-ABB4-B9FDAE5D7E8C}|Store.Presentation1\\Store.Presentation1.csproj|c:\\users\\pc\\source\\repos\\product\\store.presentation1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDEC192A-3F39-42C0-ABB4-B9FDAE5D7E8C}|Store.Presentation1\\Store.Presentation1.csproj|solutionrelative:store.presentation1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0B0FE34-1C6E-45F6-8B52-1900A286C091}|Store.Application\\Store.Application.csproj|c:\\users\\pc\\source\\repos\\product\\store.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0B0FE34-1C6E-45F6-8B52-1900A286C091}|Store.Application\\Store.Application.csproj|c:\\users\\pc\\desktop\\product\\product\\store.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0B0FE34-1C6E-45F6-8B52-1900A286C091}|Store.Application\\Store.Application.csproj|solutionrelative:store.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDEC192A-3F39-42C0-ABB4-B9FDAE5D7E8C}|Store.Presentation1\\Store.Presentation1.csproj|c:\\users\\pc\\source\\repos\\product\\store.presentation1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDEC192A-3F39-42C0-ABB4-B9FDAE5D7E8C}|Store.Presentation1\\Store.Presentation1.csproj|c:\\users\\pc\\desktop\\product\\product\\store.presentation1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEC192A-3F39-42C0-ABB4-B9FDAE5D7E8C}|Store.Presentation1\\Store.Presentation1.csproj|solutionrelative:store.presentation1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B0FE34-1C6E-45F6-8B52-1900A286C091}|Store.Application\\Store.Application.csproj|c:\\users\\pc\\desktop\\product\\product\\store.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B0FE34-1C6E-45F6-8B52-1900A286C091}|Store.Application\\Store.Application.csproj|solutionrelative:store.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEC192A-3F39-42C0-ABB4-B9FDAE5D7E8C}|Store.Presentation1\\Store.Presentation1.csproj|c:\\users\\pc\\desktop\\product\\product\\store.presentation1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDEC192A-3F39-42C0-ABB4-B9FDAE5D7E8C}|Store.Presentation1\\Store.Presentation1.csproj|solutionrelative:store.presentation1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43BEBF0C-CAE7-43D8-AA5F-DC2811382690}|Store.Infrastructure\\Store.Infrastructure.csproj|c:\\users\\pc\\source\\repos\\product\\store.infrastructure\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43BEBF0C-CAE7-43D8-AA5F-DC2811382690}|Store.Infrastructure\\Store.Infrastructure.csproj|c:\\users\\pc\\desktop\\product\\product\\store.infrastructure\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43BEBF0C-CAE7-43D8-AA5F-DC2811382690}|Store.Infrastructure\\Store.Infrastructure.csproj|solutionrelative:store.infrastructure\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0B0FE34-1C6E-45F6-8B52-1900A286C091}|Store.Application\\Store.Application.csproj|c:\\users\\pc\\source\\repos\\product\\store.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0B0FE34-1C6E-45F6-8B52-1900A286C091}|Store.Application\\Store.Application.csproj|c:\\users\\pc\\desktop\\product\\product\\store.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0B0FE34-1C6E-45F6-8B52-1900A286C091}|Store.Application\\Store.Application.csproj|solutionrelative:store.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84025685-74D9-47C0-AB96-5CF4A88542FE}|Store.Domain\\Store.Domain.csproj|c:\\users\\pc\\source\\repos\\product\\store.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84025685-74D9-47C0-AB96-5CF4A88542FE}|Store.Domain\\Store.Domain.csproj|c:\\users\\pc\\desktop\\product\\product\\store.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84025685-74D9-47C0-AB96-5CF4A88542FE}|Store.Domain\\Store.Domain.csproj|solutionrelative:store.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43BEBF0C-CAE7-43D8-AA5F-DC2811382690}|Store.Infrastructure\\Store.Infrastructure.csproj|c:\\users\\pc\\source\\repos\\product\\store.infrastructure\\migrations\\20250126055801_a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43BEBF0C-CAE7-43D8-AA5F-DC2811382690}|Store.Infrastructure\\Store.Infrastructure.csproj|c:\\users\\pc\\desktop\\product\\product\\store.infrastructure\\migrations\\20250126055801_a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43BEBF0C-CAE7-43D8-AA5F-DC2811382690}|Store.Infrastructure\\Store.Infrastructure.csproj|solutionrelative:store.infrastructure\\migrations\\20250126055801_a1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,15 +42,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "20250126055801_A1.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Product\\Store.Infrastructure\\Migrations\\20250126055801_A1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\product\\Product\\Store.Infrastructure\\Migrations\\20250126055801_A1.cs",
               "RelativeDocumentMoniker": "Store.Infrastructure\\Migrations\\20250126055801_A1.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Product\\Store.Infrastructure\\Migrations\\20250126055801_A1.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\product\\Product\\Store.Infrastructure\\Migrations\\20250126055801_A1.cs",
               "RelativeToolTip": "Store.Infrastructure\\Migrations\\20250126055801_A1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Product\\Store.Presentation1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\product\\Product\\Store.Presentation1\\Program.cs",
               "RelativeDocumentMoniker": "Store.Presentation1\\Program.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Product\\Store.Presentation1\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\product\\Product\\Store.Presentation1\\Program.cs",
               "RelativeToolTip": "Store.Presentation1\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAgwA4AAADsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,11 +72,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Product\\Store.Presentation1\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\product\\Product\\Store.Presentation1\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Store.Presentation1\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Product\\Store.Presentation1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\product\\Product\\Store.Presentation1\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Store.Presentation1\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwDIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-25T06:15:28.137Z",
               "EditorCaption": ""
@@ -85,9 +85,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "StoreDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Product\\Store.Infrastructure\\StoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\product\\Product\\Store.Infrastructure\\StoreDbContext.cs",
               "RelativeDocumentMoniker": "Store.Infrastructure\\StoreDbContext.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Product\\Store.Infrastructure\\StoreDbContext.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\product\\Product\\Store.Infrastructure\\StoreDbContext.cs",
               "RelativeToolTip": "Store.Infrastructure\\StoreDbContext.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwBEAAADGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,36 +95,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Product\\Store.Application\\Services\\ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\product\\Product\\Store.Application\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Store.Application\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Product\\Store.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\product\\Product\\Store.Application\\Services\\ProductService.cs",
               "RelativeToolTip": "Store.Application\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwA0AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAowC8AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T05:47:19.001Z"
+              "WhenOpened": "2025-01-25T05:47:19.001Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Product\\Store.Application\\Interfaces\\IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\product\\Product\\Store.Application\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "Store.Application\\Interfaces\\IProductService.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Product\\Store.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\product\\Product\\Store.Application\\Interfaces\\IProductService.cs",
               "RelativeToolTip": "Store.Application\\Interfaces\\IProductService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T05:43:39.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T05:43:39.249Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Product\\Store.Application\\Dtos\\ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\product\\Product\\Store.Application\\Dtos\\ProductDto.cs",
               "RelativeDocumentMoniker": "Store.Application\\Dtos\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Product\\Store.Application\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\product\\Product\\Store.Application\\Dtos\\ProductDto.cs",
               "RelativeToolTip": "Store.Application\\Dtos\\ProductDto.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,9 +134,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Product\\Store.Domain\\Entities\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\product\\Product\\Store.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Store.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Product\\Store.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\product\\Product\\Store.Domain\\Entities\\Product.cs",
               "RelativeToolTip": "Store.Domain\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

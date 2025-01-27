@@ -18,7 +18,7 @@ namespace Store.Application.Services
         {
             _context = context;
         }
-        public bool AddProduct(CreateProductDto productDto)
+        public async Task<bool> AddProduct(CreateProductDto productDto)
         {
             try
             {
@@ -30,8 +30,8 @@ namespace Store.Application.Services
 
 
                 };
-                _context.products.Add(product);
-                _context.SaveChanges();
+                await _context.products.AddAsync(product);
+                await _context.SaveChangesAsync();
                 return true;
             }
             catch
@@ -41,12 +41,12 @@ namespace Store.Application.Services
 
         }
 
-        public bool DeleteProduct(Product product)
+        public async Task<bool> DeleteProduct(Product product)
         {
             try
             {
                 _context.Entry(product).State = EntityState.Deleted;
-                _context.SaveChanges();
+               await _context.SaveChangesAsync();
                 return true;
             }
             catch
@@ -55,30 +55,31 @@ namespace Store.Application.Services
             }
         }
 
-        public bool DeleteProduct(int id)
+        public async Task<bool> DeleteProduct(int id)
         {
-           var product=GetProductById(id);
+           var product= await GetProductById(id);
             DeleteProduct(product);
             return true;    
         }
 
-        public Product GetProductById(int id)
+        public async Task< Product> GetProductById(int id)
         {
-            return _context.products.SingleOrDefault(p=>p.Id==id);
+            return await _context.products.FindAsync(id);
         }
 
-        public IEnumerable<Product> GetProducts()
+        public async Task<IEnumerable<Product>> GetProducts()
         {
-           return _context.products.ToList();
+            var products = await _context.products.ToListAsync();
+            return products;
             
         }
 
-        public bool UpdateProduct(Product product)
+        public async Task< bool> UpdateProduct(Product product)
         {
             try
             {
                 _context.Entry(product).State = EntityState.Modified;
-                _context.SaveChanges();
+                await _context.SaveChangesAsync();
                 return true;
             }
             catch

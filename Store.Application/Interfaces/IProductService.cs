@@ -10,11 +10,12 @@ namespace Store.Application.Interfaces
 {
    public interface IProductService
     {
-        IEnumerable<Product> GetProducts();
-        Product GetProductById(int id);
-        bool AddProduct(CreateProductDto product);
-        bool UpdateProduct(Product product);
-        bool DeleteProduct(Product product);
-        bool DeleteProduct(int id);
+        Task<IEnumerable<Product>> GetProducts();
+        Task<Product> GetProductById(int id);
+         Task<bool> AddProduct(CreateProductDto product);
+         Task <bool> UpdateProduct(Product product);
+         Task <bool> DeleteProduct(Product product);
+         Task<bool> DeleteProduct(int id);
+       
     }
 }
